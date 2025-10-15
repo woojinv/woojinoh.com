@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "Passages",
+  "short_name": "Passages",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
